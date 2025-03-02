@@ -1,0 +1,29 @@
+# for debugging
+debugpy
+
+
+#for scraping
+crawl4ai
+playwright
+selenium
+beautifulsoup4
+bs4
+
+# for data analysis
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+xgboost
+sklearn
+
+# for testing
+pytest
+pytest-cov
+pytest-mock
+
+
