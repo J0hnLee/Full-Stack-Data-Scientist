@@ -19,7 +19,6 @@ plotly
 scikit-learn
 scipy
 xgboost
-sklearn
 
 # for testing
 pytest
