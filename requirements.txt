@@ -1,6 +1,6 @@
 # for debugging
 debugpy
-
+uvicorn[standard]>=0.23.2,<0.24.0
 
 #for scraping
 crawl4ai
